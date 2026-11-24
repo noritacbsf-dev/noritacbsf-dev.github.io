@@ -27,6 +27,14 @@ studio:'Ateliê do Norichan',skip:'Pular para o conteúdo',navApps:'Aplicativos'
 }};
 
 Object.assign(window.translations.en, {
+  navDeveloper: 'Developer’s note',
+  developerTitle: 'A message from the developer',
+  developerGreeting: 'Hello! I’m an independent app developer just getting started in Osaka, Japan.',
+  developerOrigin: 'I started building apps I’d want to use myself, hoping people around the world would enjoy them too.',
+  developerAim: 'I’m still new to this, but I want to keep making apps that are fun, useful, and a little distinctive.',
+  developerThanks: 'Your feedback and support encourage me to keep building.',
+  developerClosing: 'Thanks for being here!',
+  developerX: 'Norichan Workshop’s official X account',
   promoTitle: 'Organize and enjoy your music on a shelf',
   promoCopy: 'Group your favorite tracks and create covers from your own photos. Browse by album spine, or listen on shuffle or repeat.',
   promoNotice: 'Promotional illustration. The actual app screen differs.',
@@ -40,6 +48,14 @@ Object.assign(window.translations.en, {
   plantAlocasia: 'Potted alocasia', plantAnthurium: 'Potted pink anthurium'
 });
 Object.assign(window.translations.es, {
+  navDeveloper: 'Mensaje del desarrollador',
+  developerTitle: 'Un mensaje del desarrollador',
+  developerGreeting: '¡Hola! Soy desarrollador independiente de aplicaciones en Osaka, Japón, y estoy dando mis primeros pasos.',
+  developerOrigin: 'Empecé a crear las aplicaciones que a mí me gustaría usar, con la ilusión de que también las disfruten personas de todo el mundo.',
+  developerAim: 'Todavía estoy aprendiendo, pero quiero seguir creando aplicaciones divertidas, útiles y con un toque personal.',
+  developerThanks: 'Sus opiniones y su apoyo me animan a seguir desarrollando.',
+  developerClosing: '¡Gracias por acompañarme!',
+  developerX: 'Cuenta oficial del Taller de Norichan en X',
   promoTitle: 'Organiza y disfruta tu música en una estantería',
   promoCopy: 'Agrupa tus canciones favoritas y crea portadas con tus fotos. Explora tus álbumes por el lomo o escucha en modo aleatorio o repetición.',
   promoNotice: 'Imagen promocional. La pantalla real de la aplicación es diferente.',
@@ -53,6 +69,14 @@ Object.assign(window.translations.es, {
   plantAlocasia: 'Alocasia en maceta', plantAnthurium: 'Anturio rosa en maceta'
 });
 Object.assign(window.translations['pt-BR'], {
+  navDeveloper: 'Mensagem do desenvolvedor',
+  developerTitle: 'Uma mensagem do desenvolvedor',
+  developerGreeting: 'Olá! Sou desenvolvedor independente de aplicativos e estou começando em Osaka, no Japão.',
+  developerOrigin: 'Comecei a criar os aplicativos que eu gostaria de usar, na esperança de que pessoas do mundo todo também gostem deles.',
+  developerAim: 'Ainda estou aprendendo, mas quero continuar criando aplicativos divertidos, úteis e com um toque de personalidade.',
+  developerThanks: 'As opiniões e o apoio de vocês me dão ânimo para continuar desenvolvendo.',
+  developerClosing: 'Obrigado por me acompanhar!',
+  developerX: 'Perfil oficial do Ateliê do Norichan no X',
   promoTitle: 'Organize e curta suas músicas em uma estante',
   promoCopy: 'Reúna suas faixas favoritas e crie capas com suas fotos. Encontre seus álbuns pelas lombadas ou ouça no modo aleatório ou de repetição.',
   promoNotice: 'Imagem promocional. A tela real do aplicativo é diferente.',
