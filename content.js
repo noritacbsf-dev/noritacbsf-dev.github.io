@@ -27,6 +27,11 @@ studio:'Ateliê do Norichan',skip:'Pular para o conteúdo',navApps:'Aplicativos'
 }};
 
 Object.assign(window.translations.en, {
+  promoTitle: 'Organize and enjoy your music on a shelf',
+  promoCopy: 'Group your favorite tracks and create covers from your own photos. Browse by album spine, or listen on shuffle or repeat.',
+  promoNotice: 'Promotional illustration. The actual app screen differs.',
+  promoArt: 'English MuShelf promotional panel showing colorful covers on a wooden shelf',
+  bearsArt: 'Red, blue, yellow, and green teddy bears sitting on a wooden shelf',
   screensTitle: 'Change the mood with color',
   screensCopy: 'Warm wood or bright pink. See how a change of color gives your covers and spines a different feel.',
   decorTitle: 'Give your shelf a personal touch',
@@ -35,6 +40,11 @@ Object.assign(window.translations.en, {
   plantAlocasia: 'Potted alocasia', plantAnthurium: 'Potted pink anthurium'
 });
 Object.assign(window.translations.es, {
+  promoTitle: 'Organiza y disfruta tu música en una estantería',
+  promoCopy: 'Agrupa tus canciones favoritas y crea portadas con tus fotos. Explora tus álbumes por el lomo o escucha en modo aleatorio o repetición.',
+  promoNotice: 'Imagen promocional. La pantalla real de la aplicación es diferente.',
+  promoArt: 'Panel promocional de MuShelf en español con portadas de colores en una estantería de madera',
+  bearsArt: 'Cuatro ositos rojo, azul, amarillo y verde sentados en una estantería de madera',
   screensTitle: 'Cambia el ambiente con el color',
   screensCopy: 'Madera cálida o rosa alegre. Mira cómo cambia el aspecto de las portadas y los lomos con cada color.',
   decorTitle: 'Dale un toque personal a tu estantería',
@@ -43,6 +53,11 @@ Object.assign(window.translations.es, {
   plantAlocasia: 'Alocasia en maceta', plantAnthurium: 'Anturio rosa en maceta'
 });
 Object.assign(window.translations['pt-BR'], {
+  promoTitle: 'Organize e curta suas músicas em uma estante',
+  promoCopy: 'Reúna suas faixas favoritas e crie capas com suas fotos. Encontre seus álbuns pelas lombadas ou ouça no modo aleatório ou de repetição.',
+  promoNotice: 'Imagem promocional. A tela real do aplicativo é diferente.',
+  promoArt: 'Painel promocional do MuShelf em português do Brasil com capas coloridas em uma estante de madeira',
+  bearsArt: 'Quatro ursinhos vermelho, azul, amarelo e verde sentados em uma estante de madeira',
   screensTitle: 'Mude o clima com a cor',
   screensCopy: 'Madeira aconchegante ou rosa vibrante. Veja como a cor da estante muda o visual das capas e lombadas.',
   decorTitle: 'Dê um toque pessoal à sua estante',
